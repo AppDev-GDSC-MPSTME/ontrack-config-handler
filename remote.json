@@ -1,7 +1,7 @@
 {
   "version": 3,
   "home_banner": {
-    "image": "https://www.pcis.nhs.scot/wp-content/uploads/2024/11/cropped-cropped-combined_phs_nhs_logo.jpg",
+    "image": "https://raw.githubusercontent.com/AppDev-GDSC-MPSTME/ontrack-config-handler/refs/heads/main/hyp.png",
     "click_url": "https://arnavjain.in"
   }
 }
